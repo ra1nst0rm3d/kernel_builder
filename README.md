@@ -1,10 +1,7 @@
 # Info about builder
 * For CLegacy kernel and CLegacy branch kernels for begonia
-* Script - builder.sh
 * Compiller - Proton Clang 13 by kdrag0n
 * Zipper - AnyKernel3 by osm0sis
-* Auto-Clean function
-* Auto-Build function
 
 # How to use
 * If you are building the kernel for the first time, then you need to run the script requirements.sh in repo folder as root: <code>./requirements.sh</code> (you only need to do this once).
